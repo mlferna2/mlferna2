@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mlferna2
-- 👀 I’m interested in learning coding and finishing my PhD
+- 👀 I’m interested in learning to code and finishing my PhD
 - 🌱 I’m currently learning phyton and other systems
 - 💞️ I’m looking to collaborate on human analysis on PBMC with sc-RNA seq
 - 📫 How to reach me by email...
